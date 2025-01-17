@@ -1,0 +1,43 @@
+table.course-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 300px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+thead.course-header tr {
+    background-color: #fff;
+    color: #000;
+    text-align: left;
+    border-color: #979797;
+}
+
+.icon-row {
+    color: #000;
+    text-align: right;
+    border-color: #979797;
+}
+
+th,
+td {
+    padding: 12px 15px;
+}
+
+tbody.course-body tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.info-icon {
+    width: 15px;
+    float: right;
+}
+
+
+
+@media screen and (max-width: 960px) {
+    table.course-table {
+        min-width: 200px;
+    }
+} 
