@@ -1,0 +1,938 @@
+[
+    {
+        "course": "AERO 121",
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "AERO 215",
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "AERO 220",
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "AERO 299",
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "AERO 300",
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "AERO 302",
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "AERO 303",
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "AERO 320",
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "AERO 321",
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "AERO 331",
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "AERO 350",
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "AERO 431",
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "AERO 433",
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "AERO 460",
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "AERO 465",
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "(CE 204 & CE 207) or CE 208",
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES",
+        "type": "optional"
+    },
+    {
+        "course": "EE 201 & EE 251",
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES",
+        "type": "optional"
+    },
+    {
+        "course": "CHEM 124",
+        "major": "Aerospace Engineering",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "IME 144",
+        "major": "Aerospace Engineering",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "MATE 210",
+        "major": "Aerospace Engineering",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "MATH 141",
+        "major": "Aerospace Engineering",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "MATH 142",
+        "major": "Aerospace Engineering",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "MATH 143",
+        "major": "Aerospace Engineering",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "MATH 241",
+        "major": "Aerospace Engineering",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "MATH 244",
+        "major": "Aerospace Engineering",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ME 211",
+        "major": "Aerospace Engineering",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ME 212",
+        "major": "Aerospace Engineering",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "PHYS 141",
+        "major": "Aerospace Engineering",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "PHYS 142",
+        "major": "Aerospace Engineering",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "PHYS 143",
+        "major": "Aerospace Engineering",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "STAT 312",
+        "major": "Aerospace Engineering",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BUS 206",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BUS 207",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BUS 214",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BUS 215",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BUS 342",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BUS 346",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BUS 387",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BUS 391",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BUS 401 & BUS 411",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "optional"
+    },
+    {
+        "course": "BUS 404",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ITP 303",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ITP 326",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ITP 330",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ITP 341",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ITP 371",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BUS 301",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BUS 302",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BUS 303",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BUS 304",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BUS 410",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BUS 446",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ECON 330",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BUS 416",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BUS 461 & BUS 462",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "optional"
+    },
+    {
+        "course": "BUS 463",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BUS 464",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ECON 464",
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ECON 221",
+        "major": "Business Administration",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ECON 222",
+        "major": "Business Administration",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "MATH 221",
+        "major": "Business Administration",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "STAT 251",
+        "major": "Business Administration",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "STAT 252",
+        "major": "Business Administration",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "CSC 101",
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "CSC 123",
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "CSC 202",
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "CSC 203",
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "CSC 225",
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "CSC 248",
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "CSC 300 or PHIL 323",
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES",
+        "type": "optional"
+    },
+    {
+        "course": "CSC 307 or (CSC 308 & CSC 309)",
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES",
+        "type": "optional"
+    },
+    {
+        "course": "CSC 321 or CSC 323 or CSC 325",
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES",
+        "type": "optional"
+    },
+    {
+        "course": "CSC 349",
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "CSC 357",
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "CSC 364 or (CPE 464 & CPE 469)",
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES",
+        "type": "optional"
+    },
+    {
+        "course": "CSC 365",
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "CSC 430",
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "CSC 445",
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "CSC 453",
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "(CSC 491 & CSC 492) or (CSC 497 & CSC 498)",
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES",
+        "type": "optional"
+    },
+    {
+        "course": "ES 350 or ES 351",
+        "major": "Computer Science",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "optional"
+    },
+    {
+        "course": "MATH 141",
+        "major": "Computer Science",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "MATH 142",
+        "major": "Computer Science",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "MATH 143",
+        "major": "Computer Science",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "MATH 206 or MATH 244",
+        "major": "Computer Science",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "optional"
+    },
+    {
+        "course": "PHIL 230",
+        "major": "Computer Science",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "PHIL 231",
+        "major": "Computer Science",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "STAT 312",
+        "major": "Computer Science",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "BIO 111",
+        "major": "Computer Science",
+        "requirement_group": "Life Science Support Elective",
+        "type": "required"
+    },
+    {
+        "course": "BIO 161",
+        "major": "Computer Science",
+        "requirement_group": "Life Science Support Elective",
+        "type": "required"
+    },
+    {
+        "course": "BIO 213 & BMED 213",
+        "major": "Computer Science",
+        "requirement_group": "Life Science Support Elective",
+        "type": "optional"
+    },
+    {
+        "course": "BOT 121",
+        "major": "Computer Science",
+        "requirement_group": "Life Science Support Elective",
+        "type": "required"
+    },
+    {
+        "course": "MCRO 221",
+        "major": "Computer Science",
+        "requirement_group": "Life Science Support Elective",
+        "type": "required"
+    },
+    {
+        "course": "CHEM 124 & CHEM 125 & CHEM 126",
+        "major": "Computer Science",
+        "requirement_group": "Physical Science Support Elective",
+        "type": "optional"
+    },
+    {
+        "course": "PHYS 141 & PHYS 142 & PHYS 143",
+        "major": "Computer Science",
+        "requirement_group": "Physical Science Support Elective",
+        "type": "optional"
+    },
+    {
+        "course": "BIO 111",
+        "major": "Computer Science",
+        "requirement_group": "Additional Science Support Elective",
+        "type": "required"
+    },
+    {
+        "course": "BIO 161",
+        "major": "Computer Science",
+        "requirement_group": "Additional Science Support Elective",
+        "type": "required"
+    },
+    {
+        "course": "BOT 121",
+        "major": "Computer Science",
+        "requirement_group": "Additional Science Support Elective",
+        "type": "required"
+    },
+    {
+        "course": "CHEM 124",
+        "major": "Computer Science",
+        "requirement_group": "Additional Science Support Elective",
+        "type": "required"
+    },
+    {
+        "course": "MCRO 221",
+        "major": "Computer Science",
+        "requirement_group": "Additional Science Support Elective",
+        "type": "required"
+    },
+    {
+        "course": "PHYS 141",
+        "major": "Computer Science",
+        "requirement_group": "Additional Science Support Elective",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 202",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 203",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 204",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 205",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 220 or ENGL 221",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "optional"
+    },
+    {
+        "course": "ENGL 251",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 290",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 303",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 304",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 305",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 306",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 345",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 346",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 347",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 348",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 349",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 381",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 382",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 310",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 311",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 312",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 317",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 319",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 361",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 368",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 370",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 371",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 372",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 373",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 387",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 388",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 390",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 391",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 395",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 439",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 439",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 449",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 449",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 449",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 449",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 449",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 459",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 467",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 495",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ENGL 461",
+        "major": "English",
+        "requirement_group": "MAJOR COURSES",
+        "type": "required"
+    },
+    {
+        "course": "CHIN 201",
+        "major": "English",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "CHIN 202",
+        "major": "English",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "FR 201",
+        "major": "English",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "FR 202",
+        "major": "English",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "GER 201",
+        "major": "English",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "GER 202",
+        "major": "English",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "ITAL 201",
+        "major": "English",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "JPNS 201",
+        "major": "English",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "SPAN 201",
+        "major": "English",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    },
+    {
+        "course": "SPAN 202",
+        "major": "English",
+        "requirement_group": "SUPPORT COURSES",
+        "type": "required"
+    }
+]

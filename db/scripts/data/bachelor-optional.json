@@ -1,0 +1,145 @@
+[
+    {
+        "course": "(CE 204 & CE 207) or CE 208",
+        "course_list": [
+            "CE 204",
+            "CE 207",
+            "CE 208"
+        ],
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES"
+    },
+    {
+        "course": "EE 201 & EE 251",
+        "course_list": [
+            "EE 201",
+            "EE 251"
+        ],
+        "major": "Aerospace Engineering",
+        "requirement_group": "MAJOR COURSES"
+    },
+    {
+        "course": "BUS 401 & BUS 411",
+        "course_list": [
+            "BUS 401",
+            "BUS 411"
+        ],
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES"
+    },
+    {
+        "course": "BUS 461 & BUS 462",
+        "course_list": [
+            "BUS 461",
+            "BUS 462"
+        ],
+        "major": "Business Administration",
+        "requirement_group": "MAJOR COURSES"
+    },
+    {
+        "course": "CSC 300 or PHIL 323",
+        "course_list": [
+            "CSC 300",
+            "PHIL 323"
+        ],
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES"
+    },
+    {
+        "course": "CSC 307 or (CSC 308 & CSC 309)",
+        "course_list": [
+            "CSC 307",
+            "CSC 308",
+            "CSC 309"
+        ],
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES"
+    },
+    {
+        "course": "CSC 321 or CSC 323 or CSC 325",
+        "course_list": [
+            "CSC 321",
+            "CSC 323",
+            "CSC 325"
+        ],
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES"
+    },
+    {
+        "course": "CSC 364 or (CPE 464 & CPE 469)",
+        "course_list": [
+            "CSC 364",
+            "CPE 464",
+            "CPE 469"
+        ],
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES"
+    },
+    {
+        "course": "(CSC 491 & CSC 492) or (CSC 497 & CSC 498)",
+        "course_list": [
+            "CSC 491",
+            "CSC 492",
+            "CSC 497",
+            "CSC 498"
+        ],
+        "major": "Computer Science",
+        "requirement_group": "MAJOR COURSES"
+    },
+    {
+        "course": "ES 350 or ES 351",
+        "course_list": [
+            "ES 350",
+            "ES 351"
+        ],
+        "major": "Computer Science",
+        "requirement_group": "SUPPORT COURSES"
+    },
+    {
+        "course": "MATH 206 or MATH 244",
+        "course_list": [
+            "MATH 206",
+            "MATH 244"
+        ],
+        "major": "Computer Science",
+        "requirement_group": "SUPPORT COURSES"
+    },
+    {
+        "course": "BIO 213 & BMED 213",
+        "course_list": [
+            "BIO 213",
+            "BMED 213"
+        ],
+        "major": "Computer Science",
+        "requirement_group": "Life Science Support Elective"
+    },
+    {
+        "course": "CHEM 124 & CHEM 125 & CHEM 126",
+        "course_list": [
+            "CHEM 124",
+            "CHEM 125",
+            "CHEM 126"
+        ],
+        "major": "Computer Science",
+        "requirement_group": "Physical Science Support Elective"
+    },
+    {
+        "course": "PHYS 141 & PHYS 142 & PHYS 143",
+        "course_list": [
+            "PHYS 141",
+            "PHYS 142",
+            "PHYS 143"
+        ],
+        "major": "Computer Science",
+        "requirement_group": "Physical Science Support Elective"
+    },
+    {
+        "course": "ENGL 220 or ENGL 221",
+        "course_list": [
+            "ENGL 220",
+            "ENGL 221"
+        ],
+        "major": "English",
+        "requirement_group": "MAJOR COURSES"
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "course": "(CE 204 & CE 207) or CE 208",
+        "option": "CE 204"
+    },
+    {
+        "course": "(CE 204 & CE 207) or CE 208",
+        "option": "CE 207"
+    },
+    {
+        "course": "(CE 204 & CE 207) or CE 208",
+        "option": "CE 208"
+    },
+    {
+        "course": "EE 201 & EE 251",
+        "option": "EE 201"
+    },
+    {
+        "course": "EE 201 & EE 251",
+        "option": "EE 251"
+    },
+    {
+        "course": "BUS 401 & BUS 411",
+        "option": "BUS 401"
+    },
+    {
+        "course": "BUS 401 & BUS 411",
+        "option": "BUS 411"
+    },
+    {
+        "course": "BUS 461 & BUS 462",
+        "option": "BUS 461"
+    },
+    {
+        "course": "BUS 461 & BUS 462",
+        "option": "BUS 462"
+    },
+    {
+        "course": "CSC 300 or PHIL 323",
+        "option": "CSC 300"
+    },
+    {
+        "course": "CSC 300 or PHIL 323",
+        "option": "PHIL 323"
+    },
+    {
+        "course": "CSC 307 or (CSC 308 & CSC 309)",
+        "option": "CSC 307"
+    },
+    {
+        "course": "CSC 307 or (CSC 308 & CSC 309)",
+        "option": "CSC 308"
+    },
+    {
+        "course": "CSC 307 or (CSC 308 & CSC 309)",
+        "option": "CSC 309"
+    },
+    {
+        "course": "CSC 321 or CSC 323 or CSC 325",
+        "option": "CSC 321"
+    },
+    {
+        "course": "CSC 321 or CSC 323 or CSC 325",
+        "option": "CSC 323"
+    },
+    {
+        "course": "CSC 321 or CSC 323 or CSC 325",
+        "option": "CSC 325"
+    },
+    {
+        "course": "CSC 364 or (CPE 464 & CPE 469)",
+        "option": "CSC 364"
+    },
+    {
+        "course": "CSC 364 or (CPE 464 & CPE 469)",
+        "option": "CPE 464"
+    },
+    {
+        "course": "CSC 364 or (CPE 464 & CPE 469)",
+        "option": "CPE 469"
+    },
+    {
+        "course": "(CSC 491 & CSC 492) or (CSC 497 & CSC 498)",
+        "option": "CSC 491"
+    },
+    {
+        "course": "(CSC 491 & CSC 492) or (CSC 497 & CSC 498)",
+        "option": "CSC 492"
+    },
+    {
+        "course": "(CSC 491 & CSC 492) or (CSC 497 & CSC 498)",
+        "option": "CSC 497"
+    },
+    {
+        "course": "(CSC 491 & CSC 492) or (CSC 497 & CSC 498)",
+        "option": "CSC 498"
+    },
+    {
+        "course": "ES 350 or ES 351",
+        "option": "ES 350"
+    },
+    {
+        "course": "ES 350 or ES 351",
+        "option": "ES 351"
+    },
+    {
+        "course": "MATH 206 or MATH 244",
+        "option": "MATH 206"
+    },
+    {
+        "course": "MATH 206 or MATH 244",
+        "option": "MATH 244"
+    },
+    {
+        "course": "BIO 213 & BMED 213",
+        "option": "BIO 213"
+    },
+    {
+        "course": "BIO 213 & BMED 213",
+        "option": "BMED 213"
+    },
+    {
+        "course": "CHEM 124 & CHEM 125 & CHEM 126",
+        "option": "CHEM 124"
+    },
+    {
+        "course": "CHEM 124 & CHEM 125 & CHEM 126",
+        "option": "CHEM 125"
+    },
+    {
+        "course": "CHEM 124 & CHEM 125 & CHEM 126",
+        "option": "CHEM 126"
+    },
+    {
+        "course": "PHYS 141 & PHYS 142 & PHYS 143",
+        "option": "PHYS 141"
+    },
+    {
+        "course": "PHYS 141 & PHYS 142 & PHYS 143",
+        "option": "PHYS 142"
+    },
+    {
+        "course": "PHYS 141 & PHYS 142 & PHYS 143",
+        "option": "PHYS 143"
+    },
+    {
+        "course": "ENGL 220 or ENGL 221",
+        "option": "ENGL 220"
+    },
+    {
+        "course": "ENGL 220 or ENGL 221",
+        "option": "ENGL 221"
+    }
+]
